@@ -1,0 +1,8 @@
+C:\Users\Filip\Desktop\Geometrija\bin\Debug\Geometrija.exe.config
+C:\Users\Filip\Desktop\Geometrija\bin\Debug\Geometrija.exe
+C:\Users\Filip\Desktop\Geometrija\bin\Debug\Geometrija.pdb
+C:\Users\Filip\Desktop\Geometrija\obj\Debug\Geometrija.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Geometrija\obj\Debug\Geometrija.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Geometrija\obj\Debug\Geometrija.exe
+C:\Users\Filip\Desktop\Geometrija\obj\Debug\Geometrija.pdb
+C:\Users\Filip\Desktop\Geometrija\obj\Debug\Geometrija.exe.config
