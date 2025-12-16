@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Duljina.cs" />
+    <Compile Include="Kružnica.cs" />
     <Compile Include="Tocka.cs" />
     <Compile Include="Trokut.cs" />
     <Compile Include="Program.cs" />

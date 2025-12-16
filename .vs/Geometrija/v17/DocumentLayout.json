@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Filip\\Desktop\\Geometrija\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|C:\\Users\\Filip\\Desktop\\Geometrija\\tocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|solutionrelative:tocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|c:\\users\\filip\\desktop\\geometrija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|c:\\users\\filip\\desktop\\geometrija\\trokut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|solutionrelative:trokut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|C:\\Users\\Filip\\Desktop\\Geometrija\\kru\u017Enica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|solutionrelative:kru\u017Enica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|c:\\users\\filip\\desktop\\geometrija\\tocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|solutionrelative:tocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|C:\\Users\\Filip\\Desktop\\Geometrija\\duljina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482EE616-F4B8-4918-924D-4C023A5D6A32}|Geometrija.csproj|solutionrelative:duljina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +31,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Kru\u017Enica.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Geometrija\\Kru\u017Enica.cs",
+              "RelativeDocumentMoniker": "Kru\u017Enica.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Geometrija\\Kru\u017Enica.cs",
+              "RelativeToolTip": "Kru\u017Enica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:32:37.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Duljina.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Geometrija\\Duljina.cs",
+              "RelativeDocumentMoniker": "Duljina.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Geometrija\\Duljina.cs",
+              "RelativeToolTip": "Duljina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:31:43.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Tocka.cs",
               "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Geometrija\\Tocka.cs",
               "RelativeDocumentMoniker": "Tocka.cs",
-              "ToolTip": "C:\\Users\\Filip\\Desktop\\Geometrija\\Tocka.cs*",
-              "RelativeToolTip": "Tocka.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Geometrija\\Tocka.cs",
+              "RelativeToolTip": "Tocka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T12:30:15.727Z",
               "EditorCaption": ""
@@ -40,25 +68,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Trokut.cs",
-              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Geometrija\\Trokut.cs",
-              "RelativeDocumentMoniker": "Trokut.cs",
-              "ToolTip": "C:\\Users\\Filip\\Desktop\\Geometrija\\Trokut.cs*",
-              "RelativeToolTip": "Trokut.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAIA9wA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:27:56.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Geometrija\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Filip\\Desktop\\Geometrija\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T12:15:15.303Z",
               "EditorCaption": ""
