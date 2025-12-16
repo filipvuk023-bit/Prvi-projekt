@@ -6,8 +6,8 @@ public class Duljina
     public Tocka B;
     public Duljina(Tocka a, Tocka b)
     {
-        A = a;
-        B = b;
+        this.A = a;
+        this.B = b;
     }
     public double Duzina()
     {

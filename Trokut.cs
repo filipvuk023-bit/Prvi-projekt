@@ -1,14 +1,18 @@
-﻿using System;
-
-public class Trokut
+﻿public class Trokut
 {
-    public Tocka A;
-    public Tocka B;
-    public Tocka C;
-    public Tocka D;
-    public Trokut()
+    public Tocka a;
+    public Tocka b;
+    public Tocka c;
+
+    public Trokut (Tocka a, Tocka b, Tocka c)
     {
-        Console.WriteLine("Ovo je konstrukcija trokuta");
+        this.a = a;
+        this.b = b;
+        this.c = c;
+    }
+    public double Opseg()
+    {
+        return 0;
     }
     public double Povrsina()
     {

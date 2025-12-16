@@ -8,4 +8,12 @@
         this.S = s;
         this.r = r;
     }
+    public float Opseg()
+    {
+        return 0;
+    }
+    public float Povrsina()
+    {
+        return 0;
+    }
 }
