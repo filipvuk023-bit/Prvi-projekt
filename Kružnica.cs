@@ -1,4 +1,6 @@
-﻿public class Kruznica
+﻿using System;
+
+public class Kruznica : GeometrijskiLik
 {
     public Tocka S;
     public double r;
@@ -8,12 +10,14 @@
         this.S = s;
         this.r = r;
     }
-    public float Opseg()
+
+    public override double Opseg()
     {
-        return 0;
+        return 2 * r * Math.PI;
     }
-    public float Povrsina()
+
+    public override double Povrsina()
     {
-        return 0;
+        return Math.Pow(r, 2) * Math.PI;
     }
 }

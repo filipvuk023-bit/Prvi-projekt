@@ -44,7 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Duljina.cs" />
+    <Compile Include="GeometrijskiLik.cs" />
     <Compile Include="Kružnica.cs" />
+    <Compile Include="Pravokutnik.cs" />
     <Compile Include="Tocka.cs" />
     <Compile Include="Trokut.cs" />
     <Compile Include="Program.cs" />

@@ -11,8 +11,8 @@ public class Duljina
     }
     public double Duzina()
     {
-        double x = A.X - B.X;
-        double y = A.Y - B.Y;
+        double x = B.X - A.X;
+        double y = B.Y - A.Y;
         return Math.Sqrt(y * y + x * x);
     }
 }
